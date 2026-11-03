@@ -9,7 +9,7 @@ created using HTML, Git and GitHub.
 
 | Role | Name | USN |
 |---|---|---|
-| Team Lead | Suryasarthi Sahoo | 2392608118 |
+| Team Lead | Suryasarthi Sahoo | 2392608116 |
 | Profile Developer | Suman Shekhar | 2392608113 |
 | Student 3 | Skills Developer |
 | Student 4 | Contact Developer |

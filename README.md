@@ -7,9 +7,9 @@ created using HTML, Git and GitHub.
 
 ## Team Members
 
-| Name | Role |
-|---|---|
-| Student 1 | Team Lead |
+| Role | Name | USN |
+|---|---|---|
+| Team Lead | Suryasarthi Sahoo | 2392608118 |
 | Student 2 | Profile Developer |
 | Student 3 | Skills Developer |
 | Student 4 | Contact Developer |

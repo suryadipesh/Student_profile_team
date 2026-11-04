@@ -20,11 +20,6 @@ created using HTML, Git and GitHub.
 - skills.html - Student skills and hobbies
 - contact.html - Contact information
 
-## Technologies Used
-- HTML
-- Git
-- GitHub
-
 ## Purpose
 To learn collaborative development using Git branches,
 commits and Pull Requests.
